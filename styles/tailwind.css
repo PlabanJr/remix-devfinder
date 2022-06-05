@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    * {
+        font-family: 'Montserrat', sans-serif;
+        color:  rgb(249, 250, 251);
+    }
+}
